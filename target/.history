@@ -1,0 +1,12 @@
+g8 test/hello.g8
+g8 Geal/android-app
+sudo g8 Geal/android-app
+package [my.android.project]: com.scalaonandroid.testapp
+name [My Android Project]: TestApp
+main_activity [MainActivity]:
+scala_version [2.10.1]:
+api_level [10]:
+useProguard [true]:
+package [my.android.project]: com.scalaonandroid.testapp
+new eed3si9n/hello.g8
+new androidScala/HelloWorld.g8
